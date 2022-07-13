@@ -2,3 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://sstreeservicellc.com/index</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/store</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/reviews</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/gallery-All</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/gallery-Other-Services</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/gallery-Tree-Removal</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/service-Shrub-Trimming</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/service-Tree-Removal</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/service-Tree-Trimming</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://sstreeservicellc.com/service-Landscaping</loc>
+        <lastmod>2022-07-13</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
